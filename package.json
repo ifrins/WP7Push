@@ -1,0 +1,17 @@
+{
+    "engine": "node >= 0.6.1", 
+    "name": "wp7push", 
+    "repository": {
+        "url": "git://github.com/ifrins/WP7Push.git", 
+        "type": "git"
+    }, 
+    "author": "Francesc <francesc@lapomacatalana.com>", 
+    "keywords": [
+        "Windows Phone", 
+        "push notifications", 
+        "wp7", 
+        "toast notifications"
+    ], 
+    "main": "./index.js", 
+    "description": "A Node library to send push notifications to WP7 Applications"
+}
