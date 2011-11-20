@@ -13,5 +13,6 @@
         "toast notifications"
     ], 
     "main": "./index.js", 
-    "description": "A Node library to send push notifications to WP7 Applications"
+    "description": "A Node library to send push notifications to WP7 Applications",
+	"version":"0.1.0"
 }
