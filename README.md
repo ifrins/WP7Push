@@ -1,6 +1,6 @@
 WP7Push 0.0.1
 =============
-
+__DEPRECATED!__ Jeff Wilcox (Senior Software Development Lead on MSFT's WP Team) has [released](https://github.com/jeffwilcox/mpns) a more "official" library to send Push Notifications to WP7
 ## What's WP7Push
 
 WP7Push is a Node library to send Push Notifications to Windows Phone 7 Apps using Node. 
